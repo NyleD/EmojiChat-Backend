@@ -18,4 +18,4 @@ NLP API: LSTM, Word Emeddings
     should be assigned different emojies. So with the use of LSTM, the NLP endpoint can assign emojies based on the 
     sequence of words and the meaning of the whole sentence.
   
-Front-end: React.js Client
+Front-end: React.js 
