@@ -1,0 +1,17 @@
+# 
+*.pyc
+__pycache__
+db.sqlite3
+media
+api/settings.py 
+*/migrations/*
+api/.env
+myenv/*
+*.txt
+*.env
+.env
+emojify-env*
+redis-4.0.6*
+.vscode*
+EmojiText*
+apex_app-master.zip
