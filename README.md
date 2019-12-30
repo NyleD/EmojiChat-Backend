@@ -19,7 +19,7 @@ NLP API: LSTM, Word Emeddings
     should be assigned different emojies. So with the use of LSTM, the NLP endpoint can assign emojies based on the 
     sequence of words and the meaning of the whole sentence.
     
-    To find out more on how it works, check out https://github.com/NyleD/Emoji-NLP-API
+    To find out more on how the NLP API works, check out https://github.com/NyleD/Emoji-NLP-API
   
 Front-end: React.js <br>
 https://github.com/NyleD/EmojiChat-FrontEnd
