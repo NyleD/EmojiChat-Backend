@@ -21,5 +21,5 @@ NLP API: LSTM, Word Emeddings
     
     To find out more on how it works, check out https://github.com/NyleD/Emoji-NLP-API
   
-Front-end: React.js 
+Front-end: React.js <br>
 https://github.com/NyleD/EmojiChat-FrontEnd
