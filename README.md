@@ -3,7 +3,7 @@
 Persistent chat application that adds emojies based on the content of the text message, using deep learning.
 
 ## Demo
-
+![](emojichat.gif)
 
 ## Technology
 
