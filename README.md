@@ -8,7 +8,7 @@ Persistent chat application that adds emojies based on the content of the text m
 ## Technology
 
 Backend: Django Channels for Websockets, Redis Channel Layer to implement Pub/Sub
-  - All Files availble under https://github.com/NyleD/EmojiChat-Backend/tree/master/chat
+  - All files availble under https://github.com/NyleD/EmojiChat-Backend/tree/master/chat
 
 NLP API: LSTM, Word Emeddings
   - The algorithm can associate words in the test set, that haven't appeared in the training set. 
