@@ -4,6 +4,7 @@ Persistent chat application that adds emojies based on the content of the text m
 
 ## Demo
 ![](emojichat.gif)
+![](loading_screen.gif)
 
 ## Technology
 
