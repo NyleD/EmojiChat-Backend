@@ -1,7 +1,7 @@
 # EmojiChat-Backend
 
 Persistent chat application that adds emojies based on the content of the text message, using deep learning.
-Developed Backend, Frontend & NLP API
+<br> Developed Backend, Frontend & NLP API
 
 ## Demo
 ![](emojichat.gif)
